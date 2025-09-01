@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Luciana Gouveia
 
-**`Analista de Dados`**
+**`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 ---
 
