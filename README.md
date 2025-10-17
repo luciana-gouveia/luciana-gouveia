@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">🎓 Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas<br>🏢 Estagiária no setor público<br>📊 Interessada em análise de dados<br>📚 Atualmente aprendendo R<br>🚀 Motivada para crescer e aprender sempre</p>
+<p align="left">🎓 Estudante do 4º semestre de Análise e Desenvolvimento de Sistemas<br>🏢 Estagiária no setor público<br>📊 Interessada em análise de dados<br>📚 Atualmente aprendendo R<br>🚀 Motivada a aprender sempre</p>
 
 ###
 
