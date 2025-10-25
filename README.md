@@ -2,16 +2,12 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (4º semestre)  
 💼 **Estagiária de Dados** na *Secretaria de Estado de Desenvolvimento Social de São Paulo (SEDS-SP)*  
-📍 São Paulo, Brasil  
-
-Vejo os **dados** como uma ferramenta para compreender realidades, orientar decisões e gerar impactos positivos nas pessoas e na sociedade.  
-Atuo em formação na área de **Dados**, com interesse em transformar informações em conhecimento estratégico que contribua para políticas, serviços e projetos mais eficientes.  
-Tenho ênfase em **Análise de Dados**, **modelagem e visualização de informações**, utilizando **Python**, **SQL** e **Power BI** para traduzir dados em insights relevantes e acessíveis.
+📍 São Paulo, SP - Brasil  
 
 ---
 
 ## Objetivo Profissional
-Atuar como **Analista de Dados**, aplicando métodos analíticos e ferramentas de Business Intelligence para transformar dados em conhecimento que apoie decisões humanas, promova melhorias sociais e otimize processos organizacionais.
+Atuar como Analista de Dados, aplicando uma abordagem orientada por dados para apoiar decisões, otimizar processos e gerar valor para o negócio.
 
 
 ---
