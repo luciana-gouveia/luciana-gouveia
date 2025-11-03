@@ -20,7 +20,6 @@ Atuar como **Analista de Dados**, transformando informações em insights que ap
 - Desenvolvimento de **dashboards analíticos** no **Power BI**  
 - **Python** aplicado à análise de dados (Pandas, NumPy)  
 - **Excel avançado** e integração com ferramentas de BI  
-- Conceitos de **ETL**, **Data Quality**, **KPIs** e **modelagem relacional**
 
 ---
 
