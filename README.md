@@ -6,14 +6,6 @@
 
 ---
 
-## Conhecimentos e Aprendizado Contínuo
-- Manipulação, extração e modelagem de dados com **SQL**  
-- Desenvolvimento de **dashboards analíticos** no **Power BI**  
-- **Python** aplicado à análise de dados (Pandas, NumPy)  
-- **Excel avançado** e integração com ferramentas de BI  
-
----
-
 ## Ferramentas e Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
