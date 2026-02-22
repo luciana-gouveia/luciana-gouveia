@@ -2,7 +2,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas (5º semestre)  
 Estagiária de Análise de Dados  
-<sub>São Paulo, SP</sub>
+São Paulo, SP
 
 ---
 
