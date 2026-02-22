@@ -1,12 +1,12 @@
-# 👋🏼 Olá, eu sou a Luciana Gouveia
+# Olá, eu sou a Luciana Gouveia
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (5º semestre)  
-💼 **Estagiária de Análise de Dados**
-📍 São Paulo, SP
+Estudante de Análise e Desenvolvimento de Sistemas (5º semestre)  
+Estagiária de Análise de Dados  
+<sub>São Paulo, SP</sub>
 
 ---
 
-## Ferramentas e Tecnologias
+## Ferramentas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -16,9 +16,9 @@
 ---
 
 ## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciana%20Gouveia-blue?style=flat&logo=linkedin)](https://linkedin.com/in/lucianagouveia)  
-📧 **luciana.gouveia@live.com**
+[LinkedIn](https://linkedin.com/in/lucianagouveia)  
+luciana.gouveia@live.com
 
 ---
 
-> “A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” — *Albert Einstein*
+<sub>“Não importa o quão devagar você vá, desde que não pare.” — Confúcio</sub>
