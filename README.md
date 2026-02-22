@@ -1,17 +1,8 @@
 # 👋🏼 Olá, eu sou a Luciana Gouveia
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (4º semestre)  
-💼 **Estagiária de Dados** na *Secretaria de Estado de Desenvolvimento Social de São Paulo (SEDS-SP)*  
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (5º semestre)  
+💼 **Estagiária de Análise de Dados** na *Secretaria de Estado de Desenvolvimento Social de São Paulo (SEDS-SP)*  
 📍 São Paulo, Brasil  
-
-Acredito que os **dados** são essenciais para compreender contextos, orientar decisões e gerar valor real para pessoas e organizações.  
-Estou em constante desenvolvimento na área de **Dados**, buscando transformar informações em conhecimento que apoie estratégias mais assertivas e soluções baseadas em evidências.  
-Tenho interesse em **análise, modelagem e visualização de dados**, utilizando **Python**, **SQL** e **Power BI** para produzir insights consistentes e acessíveis, capazes de conectar resultados a propósitos.
-
----
-
-## Objetivo Profissional
-Atuar como **Analista de Dados**, transformando informações em insights que apoiem decisões estratégicas e contribuam para a melhoria contínua dos resultados.
 
 ---
 
