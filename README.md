@@ -1,8 +1,8 @@
 # 👋🏼 Olá, eu sou a Luciana Gouveia
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** (5º semestre)  
-💼 **Estagiária de Análise de Dados** na *Secretaria de Estado de Desenvolvimento Social de São Paulo (SEDS-SP)*  
-📍 São Paulo, Brasil  
+💼 **Estagiária de Análise de Dados**
+📍 São Paulo, SP
 
 ---
 
