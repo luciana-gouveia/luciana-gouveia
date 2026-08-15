@@ -1,4 +1,4 @@
-# Olá, eu sou a Luciana Gouveia 👋
+# Olá, eu sou a Luciana 👋
 
 Analista de Dados em desenvolvimento, com projetos práticos em **SQL, Python, Power BI e análise de dados**.
 
