@@ -1,20 +1,85 @@
-## Hi there 👋
+# Olá, eu sou a Luciana Gouveia 👋
 
-<!--
-**luciana-gouveia/luciana-gouveia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados em desenvolvimento, com projetos práticos em **SQL, Python, Power BI e análise de dados**.
 
-Here are some ideas to get you started:
+Tenho interesse em transformar dados brutos em respostas claras para problemas de negócio, com atenção à organização, qualidade dos dados e comunicação dos resultados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Pac-Man Contributions
+---
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 📂 Projetos
+
+### 📊 Análise de E-commerce com SQL
+
+Análise de um banco de dados de e-commerce utilizando SQL para responder perguntas relacionadas a faturamento, clientes e comportamento de compra.
+
+**Principais análises:**
+
+* faturamento por categoria;
+* clientes de maior valor;
+* ticket médio;
+* pedidos concluídos e desempenho comercial.
+
+🔗 [Ver projeto](https://github.com/luciana-gouveia/analise-ecommerce-sql)
+
+---
+
+### 🎬 Análise Exploratória do IMDb com SQL
+
+Projeto de análise de dados de filmes utilizando SQLite, com consultas para explorar avaliações, gêneros e diretores.
+
+**Principais análises:**
+
+* filmes mais bem avaliados;
+* média de avaliação por gênero;
+* volume de filmes por categoria;
+* desempenho médio de diretores.
+
+🔗 [Ver projeto](https://github.com/luciana-gouveia/analise-imdb-sql)
+
+---
+
+### 💰 Agente Financeiro com IA
+
+Aplicação desenvolvida com **Python, Pandas, Streamlit e Plotly** para análise de gastos e visualização de dados financeiros.
+
+O projeto também possui um assistente capaz de responder perguntas relacionadas aos dados carregados.
+
+**Recursos:**
+
+* resumo automático dos gastos;
+* gráficos por categoria;
+* tratamento dos dados;
+* interface interativa;
+* consultas em linguagem natural.
+
+🔗 [Ver projeto](https://github.com/luciana-gouveia/agente-financeiro-ia)
+
+---
+
+## 📚 Atualmente estudando
+
+* SQL aplicado à análise de dados
+* Python e Pandas
+* Power BI
+* modelagem e tratamento de dados
+* People Analytics
+
+---
+
+## 🟡 Pac-Man Contributions
 
 <picture>
   <source
@@ -27,3 +92,10 @@ Here are some ideas to get you started:
     alt="Pac-Man contribution graph"
     src="https://raw.githubusercontent.com/luciana-gouveia/luciana-gouveia/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+## 📫 Contato
+
+[luciana.gouveia@live.com](mailto:luciana.gouveia@live.com)
+
