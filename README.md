@@ -1,4 +1,4 @@
-# Olá, eu sou a Luciana 👋
+# Olá, eu sou a Luciana Gouveia 👋
 
 Analista de Dados em desenvolvimento, com projetos práticos em **SQL, Python, Power BI e análise de dados**.
 
@@ -79,7 +79,6 @@ O projeto também possui um assistente capaz de responder perguntas relacionadas
 
 ---
 
-## 🟡 Pac-Man Contributions
 
 <picture>
   <source
@@ -97,5 +96,7 @@ O projeto também possui um assistente capaz de responder perguntas relacionadas
 
 ## 📫 Contato
 
-[luciana.gouveia@live.com](mailto:luciana.gouveia@live.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciana_Gouveia-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucianagouveia/)
+[![E-mail](https://img.shields.io/badge/E--mail-luciana.gouveia%40live.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:luciana.gouveia@live.com)
+
 
