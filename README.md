@@ -65,4 +65,3 @@ Formada em **Análise e Desenvolvimento de Sistemas** e **Administração**, com
 [![E-mail](https://img.shields.io/badge/E--mail-Luciana_Gouveia-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luciana.gouveia@live.com)
 
 </div>
-```[cite: 1]
