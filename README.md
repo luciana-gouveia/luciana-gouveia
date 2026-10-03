@@ -2,10 +2,6 @@
 
 # Olá, seja bem-vindo(a)!
 
-Formada em **Análise e Desenvolvimento de Sistemas** e **Administração**, com MBA em **Gestão Estratégica de Pessoas e Dados**.
-
-Tenho experiência com **análise, tratamento e validação de grandes volumes de dados**, automação de rotinas e criação de dashboards.
-
 <br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=luciana-gouveia&label=Visitas&style=flat)
